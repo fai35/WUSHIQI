@@ -1,2 +1,2 @@
 # WUSHIQI
-This is my first project
+吴仕棋
